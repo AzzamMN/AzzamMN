@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Azzam! 👋
 
-<!--
-**AzzamMN/AzzamMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student blending deep tech research with practical, high-speed software development. I believe in working smart—which is why I heavily integrate AI Agent workflows into my daily coding sessions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Final-year CS Student** at Universitas Pendidikan Indonesia (UPI).
+- 🧠 **Currently researching** Retrieval-Augmented Generation (RAG) and Natural Language Processing (NLP) for Sharia-compliant B2B contract audits.
+- ⚡ **AI-Assisted Developer:** I build full-stack web applications up to 10x faster by leveraging AI Agents like Antigravity.
+- ⚽ **Soft Skills:** When I'm not coding, I'm developing communication and leadership skills as a youth Futsal Coach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Focus Areas
+- **AI & NLP:** Generative AI, RAG, Prompt Engineering, IBM Granite Models.
+- **Web Development:** Python, React, Next.js, UI/UX Design.
+- **My AI-Assisted Projects:** Sabiya Wedding, HSR Combat Simulator, life-os, Kohwa.
+
+## 🌱 I'm currently open for...
+Part-time, freelance, or remote roles! I bring a unique combination of extreme digital literacy, adaptability, and highly disciplined administration skills.
+
+## 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/azzammn)
+- Email: azzammn821@gmail.com
